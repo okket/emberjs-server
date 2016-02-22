@@ -9,10 +9,8 @@ From your Ember app directory build into the server public dir, example:
 
 ```ember build --environment=production --output-path=../server/public/```
 
-Start the Express server with
+Start Express in the server directory with
 
 ```node server.js```
 
-You should be able to access your Ember app on
-
-http://localhost:3000/
+You should be able to access your Ember app on http://localhost:3000/
