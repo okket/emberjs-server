@@ -17,6 +17,7 @@ You should be able to access your Ember app on http://localhost:3000/
 
 Alternatives:
 
+* https://github.com/mholt/caddy/
 * ```python -m SimpleHTTPServer 3000```
 * Free static hosting service like surge.sh
 * ...
