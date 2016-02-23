@@ -15,6 +15,8 @@ Start Express in the server directory with
 
 You should be able to access your Ember app on http://localhost:3000/
 
-Alternative with Python:
+Alternatives:
 
-```python -m SimpleHTTPServer 3000```
+* ```python -m SimpleHTTPServer 3000```
+* Free static hosting service like surge.sh
+* ...
